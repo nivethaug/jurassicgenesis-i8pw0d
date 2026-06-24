@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 import {
   Sparkles,
   Flame,
+  Flower,
   Zap,
   Skull,
   ArrowUpRight,
